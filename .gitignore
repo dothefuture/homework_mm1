@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.env
+.DS_Store
+.idea/
+.vscode/
+
+# настройки VS Code проектов занятий 5–7 сдаются вместе с работой
+!lesson_05/**/.vscode/
+!lesson_06/**/.vscode/
+!lesson_07/**/.vscode/
