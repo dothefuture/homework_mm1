@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+    "autoDocstring.docstringFormat": "google-notypes",
+    "autoDocstring.startOnNewLine": false,
+    "autoDocstring.includeName": false,
+    "autoDocstring.guessTypes": true,
+    "autoDocstring.includeExtendedSummary": false
+}
